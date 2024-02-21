@@ -14,4 +14,5 @@ if __name__ == '__main__':
     print_hi('DataSpell')
 
 # See DataSpell help at https://www.jetbrains.com/help/dataspell/
-  
+
+#%%
