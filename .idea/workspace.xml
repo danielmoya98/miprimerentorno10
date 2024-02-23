@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09487642-aab1-4baa-929d-6bd9b553e69e" name="Changes" comment="crud + fibonacci">
-      <change afterPath="$PROJECT_DIR$/laboratorio1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicios.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="09487642-aab1-4baa-929d-6bd9b553e69e" name="Changes" comment="5 ejercicios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +106,8 @@
     <MESSAGE value="hola" />
     <MESSAGE value="ejercicios" />
     <MESSAGE value="crud + fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="crud + fibonacci" />
+    <MESSAGE value="5 ejercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 ejercicios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
