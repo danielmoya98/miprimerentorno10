@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09487642-aab1-4baa-929d-6bd9b553e69e" name="Changes" comment="new commit3">
-      <change afterPath="$PROJECT_DIR$/opencv.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica_opencv.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica_opencv.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/practica_opencv.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,11 +152,6 @@
           <url>notebook://C:/Users/Alienware/DataspellProjects/miprimerentorno/opencv.ipynb</url>
           <line>3</line>
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/Alienware/DataspellProjects/miprimerentorno/practica_opencv.ipynb</url>
-          <line>15</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
