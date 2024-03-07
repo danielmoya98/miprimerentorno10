@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09487642-aab1-4baa-929d-6bd9b553e69e" name="Changes" comment="new commit2">
+    <list default="true" id="09487642-aab1-4baa-929d-6bd9b553e69e" name="Changes" comment="new commit3">
+      <change afterPath="$PROJECT_DIR$/opencv.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica_opencv.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;dataspellEntornoVirtualPDI&quot;,
@@ -111,7 +114,8 @@
     <MESSAGE value="5 ejercicios" />
     <MESSAGE value="new commit" />
     <MESSAGE value="new commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit2" />
+    <MESSAGE value="new commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -125,6 +129,36 @@
           <url>notebook://C:/Users/Alienware/DataspellProjects/miprimerentorno/sample.ipynb</url>
           <line>17</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Alienware/DataspellProjects/miprimerentorno/opencv.ipynb</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Alienware/DataspellProjects/miprimerentorno/opencv.ipynb</url>
+          <line>40</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Alienware/DataspellProjects/miprimerentorno/opencv.ipynb</url>
+          <line>44</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Alienware/DataspellProjects/miprimerentorno/opencv.ipynb</url>
+          <line>6</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Alienware/DataspellProjects/miprimerentorno/opencv.ipynb</url>
+          <line>3</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Alienware/DataspellProjects/miprimerentorno/practica_opencv.ipynb</url>
+          <line>15</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
